@@ -66,7 +66,7 @@
   "releases_url": "https://api.github.com/repos/avian2/unidecode/releases{/id}",
   "deployments_url": "https://api.github.com/repos/avian2/unidecode/deployments",
   "created_at": "2014-12-19T15:44:27Z",
-  "updated_at": "2026-07-11T23:55:30Z",
+  "updated_at": "2026-09-09T07:47:18Z",
   "pushed_at": "2026-01-05T07:54:51Z",
   "git_url": "git://github.com/avian2/unidecode.git",
   "ssh_url": "git@github.com:avian2/unidecode.git",
@@ -74,8 +74,8 @@
   "svn_url": "https://github.com/avian2/unidecode",
   "homepage": "https://pypi.python.org/pypi/Unidecode",
   "size": 722,
-  "stargazers_count": 611,
-  "watchers_count": 611,
+  "stargazers_count": 610,
+  "watchers_count": 610,
   "language": "Python",
   "has_issues": true,
   "has_projects": true,
@@ -83,11 +83,11 @@
   "has_wiki": true,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 64,
+  "forks_count": 65,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 24,
+  "open_issues_count": 25,
   "license": {
     "key": "gpl-2.0",
     "name": "GNU General Public License v2.0",
@@ -104,9 +104,9 @@
 
   ],
   "visibility": "public",
-  "forks": 64,
-  "open_issues": 24,
-  "watchers": 611,
+  "forks": 65,
+  "open_issues": 25,
+  "watchers": 610,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -116,6 +116,6 @@
     "pull": false
   },
   "temp_clone_token": "",
-  "network_count": 64,
+  "network_count": 65,
   "subscribers_count": 11
 }
